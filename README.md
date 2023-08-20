@@ -1,1 +1,1 @@
-# Hang-Man-game-in-C-
+# Hang-Man-game in C++
